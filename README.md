@@ -37,6 +37,6 @@ int avg_time_ms = Ping.averageTime();
 
 
 
-## 来源：
+## 来源作者项目：
 * [ESP8266Ping](https://github.com/dancol90/ESP8266Ping)
 * [ESP32Ping](https://github.com/marian-craciunescu/ESP32Ping)
