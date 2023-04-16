@@ -1,11 +1,11 @@
 # ESP_Ping
 ## 使用:
-#### ESP8266
+ESP8266：
 ```Arduino
 #include <ESP8266WiFi.h>
 #include <ESP8266Ping.h>
 ```
-#### ESP32
+ESP32：
 ```Arduino
 #include <WiFi.h>
 #include <ESP32Ping.h>
